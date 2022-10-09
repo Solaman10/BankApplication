@@ -1,0 +1,6 @@
+1 11011 sola 10000.0 Abcde@11
+2 22022 mani 20000.0 Bcdef@22
+3 33033 maniyan 14500.0 CbuNbo11
+4 44044 wayne 64000.0 CbuNbo11
+5 55055 Stark 10000.0 JspoNbo22
+6 66066 manna 1000.0 LjohNblfs112
